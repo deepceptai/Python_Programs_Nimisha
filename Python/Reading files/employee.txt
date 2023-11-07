@@ -1,0 +1,4 @@
+Jim = "Salesperson"
+Tom = "Accountant"
+jerry = "Manager"
+Oscar = "Salesperson"
